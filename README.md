@@ -19,6 +19,7 @@ Este repositório documenta o sistema de controle de um robô FRC equipado com d
     ├── ShootCommand.java
     └── SetElevatorPositionCommand.java
 ```
+*Isto é apenas um exemplo. Não condiz com o código*
 
 ## Mapeamento de Controles
 
